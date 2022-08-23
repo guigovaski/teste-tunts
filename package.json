@@ -1,0 +1,17 @@
+{
+  "name": "teste-tunts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "excel4node": "^1.8.0"
+  }
+}
